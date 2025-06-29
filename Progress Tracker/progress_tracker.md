@@ -2,7 +2,7 @@
 
 Phase 1 (Jul'25) - Building the habit + Foundational DSA
 
-| Date       | Topic        | Problem                      | Platform | Notes                       |
-|------------|--------------|------------------------------|----------|-----------------------------|
-| 2025-07-01 | Arrays       | Two Sum                      | Leetcode | Hashmap vs brute force      |
+| Date       | Topic        | Problem                      | Platform | Notes                       | No. of problems |
+|------------|--------------|------------------------------|----------|-----------------------------|-----------------------|
+| 2025-06-29 | Arrays       | Maximum subarray, Contains duplicates | Leetcode | 1) Kadane's algo 2) Sorting algo - need revision  | 3|
 
