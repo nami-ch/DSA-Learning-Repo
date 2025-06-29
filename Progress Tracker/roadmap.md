@@ -3,6 +3,7 @@
 **Timeline:** July 1 – December 31, 2025  
 **Target Role:** Google SDE-II (ML)  
 **Focus Areas:** DSA (main), ML Case Prep, System Design (light)
+
 **Daily targets:** 3 problems per day ~ 21 problems per week ~ 84 per month ~ 504 in 6 months !!
 
 
